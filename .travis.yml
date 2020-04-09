@@ -1,3 +1,4 @@
 language: python
 script:
   - echo "this is script"
+  - sleep 60
